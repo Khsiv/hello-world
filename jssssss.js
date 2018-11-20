@@ -7,7 +7,7 @@ class Element {
     this.next = next;
   }
 }
-
+class KLDASS {}
 class Dequeue {
   constructor() {
     this.first = null;
