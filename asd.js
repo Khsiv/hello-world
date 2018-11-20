@@ -27,4 +27,5 @@ bubbleSort(arrayOfPeople, 'age');
 
 for (i = 0; i < arrayOfPeople.length; i++) {
    console.log(arrayOfPeople[i]);
+   console.log("Hi");
 }
