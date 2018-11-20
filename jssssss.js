@@ -102,8 +102,10 @@ console.log(resul);
 
 
 
-
-
+console.log("DASD");
+console.log("DASD");
+console.log("DASD");
+console.log("DASD");
 // function compose(g, f) {
 //   return n => g((fn));
 // }
